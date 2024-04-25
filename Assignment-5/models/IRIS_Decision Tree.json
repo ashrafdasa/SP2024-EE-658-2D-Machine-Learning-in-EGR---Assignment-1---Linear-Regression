@@ -1,0 +1,1 @@
+{"dataSetName": "IRIS", "alg": "Decision Tree", "Training Time (s)": 0.0, "modelAccurecy (%)": 100, "info": {"activation": "logistic", "solver": "adam"}}

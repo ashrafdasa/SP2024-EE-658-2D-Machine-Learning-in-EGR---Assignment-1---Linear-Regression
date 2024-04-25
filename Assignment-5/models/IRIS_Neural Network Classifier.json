@@ -1,0 +1,1 @@
+{"dataSetName": "IRIS", "alg": "Neural Network Classifier", "Training Time (s)": 1.19, "modelAccurecy (%)": 97, "info": {"activation": "logistic", "solver": "adam"}}

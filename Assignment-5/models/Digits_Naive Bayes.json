@@ -1,0 +1,1 @@
+{"dataSetName": "Digits", "alg": "Naive Bayes", "Training Time (s)": 0.02, "modelAccurecy (%)": 77, "info": {"activation": "logistic", "solver": "adam"}}

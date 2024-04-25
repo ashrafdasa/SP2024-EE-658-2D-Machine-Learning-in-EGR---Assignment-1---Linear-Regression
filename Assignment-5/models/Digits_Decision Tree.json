@@ -1,0 +1,1 @@
+{"dataSetName": "Digits", "alg": "Decision Tree", "Training Time (s)": 0.04, "modelAccurecy (%)": 86, "info": {"activation": "logistic", "solver": "adam"}}

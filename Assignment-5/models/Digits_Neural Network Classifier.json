@@ -1,0 +1,1 @@
+{"dataSetName": "Digits", "alg": "Neural Network Classifier", "Training Time (s)": 10.38, "modelAccurecy (%)": 91, "info": {"activation": "logistic", "solver": "adam"}}

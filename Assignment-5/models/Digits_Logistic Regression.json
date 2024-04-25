@@ -1,0 +1,1 @@
+{"dataSetName": "Digits", "alg": "Logistic Regression", "Training Time (s)": 0.45, "modelAccurecy (%)": 97, "info": {"solver": "lbfgs"}}
